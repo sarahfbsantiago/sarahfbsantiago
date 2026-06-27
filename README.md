@@ -14,6 +14,12 @@ I work with complex integrations, API architecture, distributed systems,
 service orchestration, and technical problem solving in high complexity
 environments, supporting enterprise clients throughout implementation,
 optimization, and production readiness processes.
+
+Currently expanding my specialization into AI Architecture & Engineering,
+AI Security, and Cybersecurity, focusing on scalable, secure, and data
+driven systems. In my current role, I also contribute to and participate
+in AI initiatives involving automation, knowledge systems, workflow
+optimization, and AI assisted technical solutions.
 ```
 
 ---
