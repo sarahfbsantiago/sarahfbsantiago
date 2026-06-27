@@ -1,5 +1,5 @@
 <a href="https://github.com/sarahfbsantiago">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF69B4&vCenter=true&width=500&lines=Hi%2C+I'm+Sarah+%E2%96%88;Full-Stack+Developer;API+Integrations;Technical+Implementation;AI+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF1493&vCenter=true&width=500&lines=Hi%2C+I'm+Sarah+%E2%96%88;Full-Stack+Developer;API+Integrations;Technical+Implementation;AI+%26+Cybersecurity" alt="Typing SVG" />
 </a>
 
 ---
