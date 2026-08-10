@@ -7,7 +7,20 @@
 ### `> about_me`
 
 ```
-Technical Account Manager working across Integrations, Implementation, and Technical Product, partnering with enterprise customers and teams across AI Engineering, Software Engineering, Product, and Cybersecurity. I lead technical integrations, troubleshoot complex issues, analyze APIs, SDKs, webhooks, payments, and production behavior, and connect technical findings with real-world data to identify patterns, generate actionable insights, and support better product decisions. My professional focus is on contributing to high-quality, secure, consistent, scalable, and sustainable products, combining technical depth, customer context, analytical thinking, and product perspective, with increasing emphasis on AI, automation, and cybersecurity.
+Technical Account Manager working across Integrations, Implementation,  
+and Technical Product, partnering with enterprise customers and teams  
+across AI Engineering, Software Engineering, Product, and Cybersecurity.
+
+I lead technical integrations, troubleshoot complex issues, and analyze  
+APIs, SDKs, webhooks, payment flows, and production behavior.
+
+I connect technical findings with real world data to identify patterns,  
+generate actionable insights, and support better product decisions.
+
+My focus is on contributing to secure, consistent, scalable, and sustainable  
+products by combining technical depth, customer context, analytical thinking,  
+and product perspective, with an increasing emphasis on AI, automation,  
+and cybersecurity.
 ```
 
 ---
