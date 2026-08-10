@@ -7,19 +7,7 @@
 ### `> about_me`
 
 ```
-Full Stack Developer with solid experience in API integrations, technical
-implementation, product initiatives, and enterprise technical account management.
-
-I work with complex integrations, API architecture, distributed systems,
-service orchestration, and technical problem solving in high complexity
-environments, supporting enterprise clients throughout implementation,
-optimization, and production readiness processes.
-
-Currently expanding my specialization into AI Architecture & Engineering,
-AI Security, and Cybersecurity, focusing on scalable, secure, and data
-driven systems. In my current role, I also contribute to and participate
-in AI initiatives involving automation, knowledge systems, workflow
-optimization, and AI assisted technical solutions.
+Technical Account Manager working across Integrations, Implementation, and Technical Product, partnering with enterprise customers and teams across AI Engineering, Software Engineering, Product, and Cybersecurity. I lead technical integrations, troubleshoot complex issues, analyze APIs, SDKs, webhooks, payments, and production behavior, and connect technical findings with real-world data to identify patterns, generate actionable insights, and support better product decisions. My professional focus is on contributing to high-quality, secure, consistent, scalable, and sustainable products, combining technical depth, customer context, analytical thinking, and product perspective, with increasing emphasis on AI, automation, and cybersecurity.
 ```
 
 ---
@@ -33,18 +21,6 @@ optimization, and AI assisted technical solutions.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**`Frontend`**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**`Mobile`**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 **`Backend & APIs`**
 
@@ -60,7 +36,6 @@ optimization, and AI assisted technical solutions.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **`Cloud & Infrastructure`**
 
@@ -69,37 +44,12 @@ optimization, and AI assisted technical solutions.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**`DevOps & Observability`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
 **`AI Development`**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
-**`Security`**
-
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![JumpCloud](https://img.shields.io/badge/JumpCloud-1F1F1F?style=for-the-badge&logo=jumpcloud&logoColor=white)
-![Kaspersky](https://img.shields.io/badge/Kaspersky-006D5C?style=for-the-badge&logo=kaspersky&logoColor=white)
-
-**`Product & Operations`**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-6C5CE7?style=for-the-badge&logo=monday&logoColor=white)
-![Pipefy](https://img.shields.io/badge/Pipefy-2D8BBA?style=for-the-badge&logo=pipefy&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 
 ---
 
